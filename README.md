@@ -1,3 +1,4 @@
+![Screenshot_20210331_120757](https://user-images.githubusercontent.com/15557020/113091126-ddedfb00-921d-11eb-81d1-a6d3d1d68a07.jpg)
 # MyActions
 自己用来签到的东东,不支持售后
 
@@ -28,4 +29,6 @@ pt_pin=***
 
 我有两个京东账号,则我JD_COOKIE里面要填写的内容为
 pt_key=****;pt_pin=***&pt_key=****;pt_pin=***
+
+....
 ```
